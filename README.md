@@ -17,7 +17,7 @@ business-focused reporting.
 - Deployed live via Streamlit Cloud
 
 ## 🚀 Live App
-👉 [View on Streamlit Cloud]([your-streamlit-link-here](https://share.streamlit.io/user/leomgama))
+👉 [View on Streamlit Cloud](https://share.streamlit.io/user/leomgama)
 
 ## 📁 Project Structure
 
